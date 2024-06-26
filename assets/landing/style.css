@@ -1,0 +1,30 @@
+:root{
+    --color-primary:#6120d7;
+    --color-secoundary:#39414e;
+    --color-tertiary:aab5c3;
+    --color-white:#ffffff;
+    --color-dark:#292929;
+}
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing:border-box;
+}
+html{
+    font-size:10px;
+}
+
+body{
+    font-size:1.6rem;
+    font-family:"", sans-serif
+}
+
+a{
+    text-decoration:none;
+}
+
+.header{
+    width:100%;
+    height:100vh;
+    background-image:url("../assets/");
+}
